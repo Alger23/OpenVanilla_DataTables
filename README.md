@@ -23,3 +23,7 @@ WM | ％
 YM | 」
 /M | /
 CM |『
+
+# 置換在OpenVanilla目錄中的dayi3.cin
+
+`~/Library/Input Methods/OpenVanilla.app/Contents/Resources/DataTables/TableBased/dayi3.cin` 
