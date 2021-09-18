@@ -5,7 +5,9 @@
 [OpenVanilla](https://github.com/openvanilla/openvanilla)
 
 
-# dayi3.cin  加入標點符號
+## dayi3.cin  加入標點符號
+
+這裡的 dayi3.cin 是基於 openvanilla 1.6.1 裡的 dayi3.cin 增加以下內容
 
 按鍵 | 標點符號
 ---- | -------
@@ -37,7 +39,7 @@ CM |『
 
 `~/Library/Input Methods/OpenVanilla.app/Contents/Resources/DataTables/TableBased/dayi3.cin` 
 
-若要直接覆蓋
+若要直接覆蓋，可以使用以下命令
 
 ```
 cd ~/Library/Input Methods/OpenVanilla.app/Contents/Resources/DataTables/TableBased
